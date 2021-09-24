@@ -89,5 +89,5 @@ export PATH="$HOME/.local/bin:$PATH"
 pip install pandas
 pip install psycopg2
 
-# открываем, ищем в файловой системе файл с решением
+ открываем, ищем в файловой системе файл с решением
 jupyter-lab
